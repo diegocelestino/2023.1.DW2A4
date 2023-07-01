@@ -5,13 +5,11 @@ Aluno Diego Celestino  diego.celestino@aluno.ifsp.edu.br  \
 Prof. Quirino         <luiz.quirino@ifsp.edu.br>
 
 ## Descrição das etapas implementadas :
-- etapa 1 - xxx%
-- etapa 2 - xxx%
-- etapa 3 - xxx%
+- etapa 1 - 100%
+- etapa 2 - 100%
+- etapa 3 - 100%
 - ...
   Use o readme para documentar o andamento do seu projeto.
 
 ## Alterações realizadas frente ao modelo de referência apresentado:
-- alteração xyz;
-- alteração xpto;
-- ...
+- alterei a cor principal para azul rgb(68, 0, 194).
